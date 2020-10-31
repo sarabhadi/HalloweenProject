@@ -6,4 +6,6 @@ public class HalloweenTest {
 
 // no candy this year, be safe
 // Line one
+    // line 2 funny
+
 }
